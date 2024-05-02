@@ -33,7 +33,7 @@ This section should be filled out at the end of the Sprint and submitted. For th
 
 1. Put your GitHub link for your demonstration software here: https://github.com/Haein05/CSE-310/blob/main/readme.md
 
-2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/pSU0FGYbJDg
+2. Put your YouTube link for your code walkthrough and demo video here: https://www.youtube.com/watch?v=DshLRjop5nM
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why.
 
