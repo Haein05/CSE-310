@@ -55,14 +55,16 @@ Record all CSE 310 work that you do on your individual module or the team projec
 
 Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
-| Date | Start Time | IM or TP | Description | Hours:Minutes |
-| ---- | ---------- | -------- | ----------- | ------------- |
-|      |            |          |             |               |
-|      |            |          |             |               |
-|      |            |          |             |               |
-|      |            |          |             |               |
-|      |            |          |             |               |
-|      |            |          |             |               |
+| Date     | Start Time | IM or TP | Description          | Hours:Minutes |
+| -------- | ---------- | -------- | -------------------- | ------------- |
+| April 29 | 2:15       | IM       | study for code       | 2H 30Mins     |
+| April 30 | 4:00       | IM       | start to make html   | 1H 30Mins     |
+| May 1    | 10:30      | IM       | make script for java | 2H            |
+| May 6    | 11:30      | IM       | study for code       | 1H            |
+| May 7    | 5:00       | IM       | developing code      | 2H            |
+| May 8    | 12:00      | IM       | developing, testing code|    2H      |
+| May 9    | 3:20       | IM       | developing, testing code|   1H 20Mins|
+| May 10    | 2:00      | IM       | developing, testing code|    1H      |
 
 _Note: Add more rows as needed._
 
@@ -78,20 +80,21 @@ This section should be filled out at the end of the Sprint and submitted.
 
 | Question                                                     | Response |
 | ------------------------------------------------------------ | -------- |
-| Are the links above public and working?                      |          |
-| Did you complete all the unique requirements for the module? |          |
-| Did you write at least 100 lines of code?                    |          |
-| Did you fully complete the readme.md file?                   |          |
-| Did you put the readme.md file in GitHub in the top folder?  |          |
+| Are the links above public and working?                      |   Yes       |
+| Did you complete all the unique requirements for the module? |   Yes       |
+| Did you write at least 100 lines of code?                    |   Yes       |
+| Did you fully complete the readme.md file?                   |   Yes       |
+| Did you put the readme.md file in GitHub in the top folder?  |   Yes       |
 
-4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did. If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did. If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge. I did not do the stretch challenge.
 
-5. Did you change your selected module during the middle of the Sprint? If yes, then describe what you changed it to, when you changed it, and why you changed it.
+5. Did you change your selected module during the middle of the Sprint? If yes, then describe what you changed it to, when you changed it, and why you changed it. No, I did  not change module during the middle of the Sprint.
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 | Activity          | Total Hours:Minutes |
 | ----------------- | ------------------- |
-| Individual Module |                     |
+| Individual Module |  12H 20Minutes      |
 
-7. What strategies (behavioral and technical) worked well during this Sprint? What did not work well? List some possible ways that you can improve next Sprint.
+7. What strategies (behavioral and technical) worked well during this Sprint? What did not work well? List some possible ways that you can improve next Sprint. 
+During this sprint, efficient time management helped me complete tasks successfully. However, I realized I waited too long to seek help with coding errors. Next sprint, I'll prioritize resolving issues independently but seek assistance promptly if needed, either from teammates or ChatGPT. 
