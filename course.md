@@ -16,13 +16,13 @@ You will work on one module in every 2 week Sprint. During the Sprint, you will 
 | ------------------------- | -------- | -------- | -------- | -------- | -------- |
 | Cloud Databases           |          |          |          | X        |          |
 | Data Analysis             |          |          |          |          |          |
-| Game Framework            |          | X        |          |          |          |
+| Game Framework            |          |          |          |          |          |
 | GIS Mapping               |          |          |          |          |          |
 | Mobile App                |          |          | X        |          |          |
 | Networking                |          |          |          |          |          |
 | SQL Relational Databases  |          |          |          |          |          |
 | Web Apps                  |          |          |          |          |          |
-| C++                       |          |          |          |          |          |
+| C++                       |          | x        |          |          |          |
 | Java                      | x        |          |          |          |          |
 | Kotlin                    |          |          |          |          |          |
 | Erlang                    |          |          |          |          |          |
