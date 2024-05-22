@@ -88,7 +88,7 @@ void display_misses(int misses)
 }
 
 
-void display_status(vector<char> incorrect, string answer)
+void lay_statudisps(vector<char> incorrect, string answer)
 {
   cout<<"Incorrect Guesses: \n";
 
